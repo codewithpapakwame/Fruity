@@ -1,4 +1,4 @@
-<h2 align="center">Fruity (E-commerce website)</h2>
+<h2 align="center">Fruity (E-commerce website) Responsive too</h2>
 
 Fruit is a e-commerce website and it is a template one it is short, simple and great you should check it out also don't forget to star this repo.
 
